@@ -11,9 +11,8 @@ class FrontController extends Controller
 {
     public function index()
     {
-        $sources = Source::all();
-        // $blogs = Blogs::orderBy('created_at', 'desc')->paginate(1);
-        return view('index', compact('sources', 'blogs'));
+        $sources = Source::all();        
+        return view('index', compact('sources'));
     }
     public function series()
     {
