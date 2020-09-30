@@ -1,4 +1,4 @@
-![alt](<https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F6%2F63%2FIMG_%2528business%2529.svg%2F1200px-IMG_%2528business%2529.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIMG_(company)&tbnid=Oa8LfmC74u-xhM&vet=12ahUKEwjdm9OV75DsAhWOBGMBHeVXCFcQMygAegUIARDGAQ..i&docid=TuPHa6zZOTIdYM&w=1200&h=444&q=img&ved=2ahUKEwjdm9OV75DsAhWOBGMBHeVXCFcQMygAegUIARDGAQ>)
+![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LaravelLogo.png/1200px-LaravelLogo.png)
 
 <p align="right">توصیه میشود با مرورگری جز اینترنت اکسپلورر تست را انجام
     دهید...
@@ -19,7 +19,7 @@
               کرده ایم. database/testing.sqlite در صورت نیاز به پاکسازی
               دیتا بیس میتوانید دستور مایگریت را اجرا کنید
 
--                           2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
+-                       2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
 
 </p>
 <p align="right">
