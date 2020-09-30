@@ -79,9 +79,9 @@
         telegram:@amir_81dp   09333064753   اگر موفق به راه اندازی نشدید لطفا از من سوالات مورد نیاز را بپرسید.
 </p>
 
-![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/panel2.png)
+![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/2.png)
 
-![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/panel2.png)
+![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/3.png)
 
 
 
