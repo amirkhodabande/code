@@ -19,7 +19,7 @@
               کرده ایم. database/testing.sqlite در صورت نیاز به پاکسازی
               دیتا بیس میتوانید دستور مایگریت را اجرا کنید
 
--                                 2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
+-                                         2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
 
 </p>
 <p align="right">
@@ -75,3 +75,6 @@
 <p align="right">
         telegram:@amir_81dp   09333064753   اگر موفق به راه اندازی نشدید لطفا از من سوالات مورد نیاز را بپرسید.
 </p>
+
+![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/2.png)
+![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/3.png)
