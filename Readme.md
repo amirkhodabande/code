@@ -32,6 +32,7 @@
               3 => اگر میخاهید به عنوان ادمین وارد شوید با ایمیل a@a.com
               وارد شوید رمز : 12345678
 </p>
+
 ![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/panel2.png)
 
 <p align="right">
@@ -52,7 +53,9 @@
               8 => هر کاربر دارای پنلی است که میتواند رای ها یی که داده را
               مدیریت کند و همچنین بلاگ اضافه کند
 </p>
+
 ![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/panel3.png)
+
 <p align="right">
               9 => اگر با اکانت ادمین به پنل بروید بخش اضافه ایی به نام
               ادمین وجود دارد که میتوانید در ان بلاگ های کاربران را مدیرت
