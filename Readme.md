@@ -1,4 +1,4 @@
-![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LaravelLogo.png/1200px-LaravelLogo.png)
+![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/1.png)
 
 <p align="right">توصیه میشود با مرورگری جز اینترنت اکسپلورر تست را انجام
     دهید...
@@ -19,7 +19,7 @@
               کرده ایم. database/testing.sqlite در صورت نیاز به پاکسازی
               دیتا بیس میتوانید دستور مایگریت را اجرا کنید
 
--                         2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
+-                                 2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
 
 </p>
 <p align="right">
