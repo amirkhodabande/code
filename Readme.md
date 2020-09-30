@@ -19,17 +19,21 @@
               کرده ایم. database/testing.sqlite در صورت نیاز به پاکسازی
               دیتا بیس میتوانید دستور مایگریت را اجرا کنید
 
--                                         2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
+-                                                                                       2 => توصیه میشود از پی اچ پی ورژن 7.2.25 به بالا استفاده کنید.
 
 </p>
 <p align="right">
 -              2 => php artisan storage:link
 </p>
 
+![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/panel1.png)
+
 <p align="right">
               3 => اگر میخاهید به عنوان ادمین وارد شوید با ایمیل a@a.com
               وارد شوید رمز : 12345678
 </p>
+![alt](https://github.com/amirkhodabande/codelearn/blob/master/public/images-forgit/panel2.png)
+
 <p align="right">
               4 => روت های ادمین در admin.php در پوشه روت ها قرار دارد.
 </p>
@@ -45,7 +49,7 @@
               7 => برای ساخت منابع admin/source/create
 </p>
 <p align="right">
-              8 => هر کاربر دارای پنلی است که میتواند رای هیی که داده را
+              8 => هر کاربر دارای پنلی است که میتواند رای ها یی که داده را
               مدیریت کند و همچنین بلاگ اضافه کند
 </p>
 <p align="right">
